@@ -9,4 +9,4 @@ For Remove-collaborator.py
 
 GITHUB_USERNAME = "Devops-Techstack"  # Replace with your GitHub organization name
 TOKEN = ""  # Replace with your GitHub token
-USER_TO_REMOVE = "yaswant24"  # User to be removed
+USER_TO_REMOVE = ""  # User to be removed
